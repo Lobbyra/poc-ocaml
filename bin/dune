@@ -1,0 +1,4 @@
+(executable
+ (public_name ocalmien)
+ (name main)
+ (libraries ocalmien core yojson))
